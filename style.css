@@ -1,0 +1,41 @@
+/* Basic styles */
+body {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  font-family: 'Arial', sans-serif;
+  color: #343a40;
+}
+
+.form-group {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#taskList {
+  margin-top: 20px;
+}
+
+/* Styling for completed tasks */
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+/* Style for Filter Buttons */
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Button hover effects */
+button:hover {
+  opacity: 0.8;
+}

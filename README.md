@@ -78,8 +78,6 @@ Each task has a "Delete" button next to it. Clicking this button will remove the
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/e320ab9c-5dc8-4af1-b3f3-0502e9614af6)
-
 ![Image](https://github.com/user-attachments/assets/e2c1b581-13b4-42ac-ad9a-9b6e4b04ae0a)
 
 ![Image](https://github.com/user-attachments/assets/c13347fa-9b66-47d9-a1c9-403bd7e7a2f7)
